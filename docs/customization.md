@@ -218,7 +218,7 @@ New (v0.4.0)
 
 `_includes/nav_footer_custom.html`
 
-Any content added to this file will appear at the bottom left of the page below the site's navigation. By default an attribution to Just the Docs is displayed which reads, `This site uses Just the Docs, a documentation theme for Jekyll.`.
+Any content added to this file will appear at the bottom left of the page below the site's navigation. By default an attribution to Just the Docs is displayed which reads, `Site is powered by customized Just the Docs jekyll theme.`.
 
 ### Custom Search Placeholder
 {: .d-inline-block }
