@@ -32,9 +32,14 @@ Code changes to `main` that are *not* in the latest release:
 [#1358] moved `_includes/nav.html` to the `_includes/components` directory,
 Users who were overriding that file will need to adjust their sites accordingly.
 
+### Documentation:
+
+- Docs: fix typos in `CHANGELOG` and `MIGRATION` by [@thapasusheel] in [#1377]
+
 ### New Contributors
 
 - [@CarbonNeuron] made their first contribution in [#1360]
+- [@thapasusheel] made their first contribution in [#1377]
 
 [@CarbonNeuron]: https://github.com/CarbonNeuron
 
@@ -43,6 +48,7 @@ Users who were overriding that file will need to adjust their sites accordingly.
 [#1360]: https://github.com/just-the-docs/just-the-docs/pull/1360
 [#1366]: https://github.com/just-the-docs/just-the-docs/pull/1366
 [#1367]: https://github.com/just-the-docs/just-the-docs/pull/1367
+[#1377]: https://github.com/just-the-docs/just-the-docs/pull/1377
 
 ## Release v0.6.2
 
