@@ -42,6 +42,7 @@ Users who were overriding that file will need to adjust their sites accordingly.
 - [@thapasusheel] made their first contribution in [#1377]
 
 [@CarbonNeuron]: https://github.com/CarbonNeuron
+[@thapasusheel]: https://github.com/thapasusheel
 
 [#1356]: https://github.com/just-the-docs/just-the-docs/pull/1356
 [#1358]: https://github.com/just-the-docs/just-the-docs/pull/1358
